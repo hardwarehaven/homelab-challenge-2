@@ -3,7 +3,7 @@
 ## Budget:
 
 - $500 Cash
-- $150 to Server Part Deals
+- $200 to Server Part Deals
 
 ## Starting Items:
 
@@ -11,7 +11,7 @@
 - Choose one from:
     - Old Laptop (Brett)
     - Inexpensive consumer router (Colten)
-    - 1 TB external Hard Drive
+    - 1TB external Hard Drive
 
 ## Rules:
 
