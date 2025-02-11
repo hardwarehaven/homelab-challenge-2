@@ -41,9 +41,9 @@ Judge: 🎊JEFF GEERLING🎊 (The True Jeff)
 3. Parity (Total number of drives that can fail)
     - Choose 1 system (SAME SYSTEM AS #2)
 4. SMB Drag Race - READ
-    - Use Aja disk benchmarking app to keel it simple
+    - Use Crystal Disk Mark - Seq Q8T1
 5. SMB Drag Race - WRITE
-    - Use Aja disk benchmarking app to keel it simple
+    - Use Crystal Disk Mark - Seq Q8T1
 6. Idle Power
     - Total **Home Lab** power draw while running the *idle workload.*
 7. CPU Workload efficiency
@@ -79,6 +79,6 @@ Contestants can choose to run whatever software they choose, however there will 
 - Challenge End Date = 2/9
     - Video Call Between Brett, Colten, and Jeff
         - Will compare setups, go through judging criteria, and pitch out setups
-        - Jeff decides
+        - Jeff decides winner
 - Video 1 Publication Date = 2/14
 - Video 2 Publication Date = 2/21
